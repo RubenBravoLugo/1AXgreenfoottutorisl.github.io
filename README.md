@@ -144,27 +144,32 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">edge-triggered-D-flip-flop</span></h2>
          
 
-<a href="https://ibb.co/pZHTTZc"><img src="https://i.ibb.co/sQT44Qn/edge-triggered-D-flip-flop.png" alt="edge-triggered-D-flip-flop" border="0"></a>
+
 
 <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Turoial 1</span></h2>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KcOKhK1M3Jg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Turorial 2</span></h2>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaHmIOGDLKs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Turoial 3</span></h2>
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BJ8vjuW120A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Turoial 4</span></h2>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SKbca_2yOzI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+<h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Turoial 4 (with costum sound)</span></h2>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U9B5_oJMCFc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Turorial 5</span></h2>
 
